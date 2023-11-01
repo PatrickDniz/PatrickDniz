@@ -4,13 +4,13 @@
 
   <h1 align="center">
 
-    Patrick Diniz da Cunha
+  Patrick Diniz da Cunha
 
   </h1>
 
   <strong align="center">
   
-  ### Welcome to my repository!
+  **Welcome to my repository!**
   
   </strong>
 
@@ -30,18 +30,16 @@
 
 ## 💼 Experiência Profissional
 
-- #### **[Abr/2023 - Presente] Desenvolvedor Web na Eficaz Marketing**  
-- #### **[Jan/2022 - Mar/2023] Profissional Autônomo**
-- #### **[Ago/2021 - Dez/2021] Analista de Dados Jr**
-- #### **[Set/2020 - Jul/2021] Estagiário de Help Desk**  
-<br>
+- **[Abr/2023 - Presente] Desenvolvedor Web na Eficaz Marketing**  
+- **[Jan/2022 - Mar/2023] Profissional Autônomo**
+- **[Ago/2021 - Dez/2021] Analista de Dados Jr**
+- **[Set/2020 - Jul/2021] Estagiário de Help Desk**  
 
 ## 🦾 **Hard Skills:**
-- ####  **Trabalho em Equipe**
-- ####  **análise e pensamento voltado a resolução de problemas**
-- ####  **Gerenciamento de Prazos**
-- ####  **Alta adaptabilidade** 
-<br>
+- **Trabalho em Equipe**
+- **análise e pensamento voltado a resolução de problemas**
+- **Gerenciamento de Prazos**
+- **Alta adaptabilidade** 
 
 ## 🛠️ **Languages and Tools:**
 
@@ -50,13 +48,11 @@
   ![css](https://img.shields.io/badge/CSS3-030303?style=for-the-badge&logo=css3)
   ![sass](https://img.shields.io/badge/Sass-030303?style=for-the-badge&logo=sass)
   ![javascript](https://img.shields.io/badge/JavaScript-030303?style=for-the-badge&logo=javascript)
-<br>
 
 ### 💻 **Back-End Development:**
 
   ![mysql](https://img.shields.io/badge/MySQL-030303?style=for-the-badge&logo=mysql&logoColor=white)
   ![postgress](https://img.shields.io/badge/PostgreSQL-030303?style=for-the-badge&logo=postgresql)
- <br>
 
  ### 💻 **Other Skills:**
 
@@ -64,7 +60,6 @@
   ![Github](https://img.shields.io/badge/-Github-030303?style=for-the-badge&logo=Github)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-030303?style=for-the-badge&logo=visual-studio-code)
   ![Python](https://img.shields.io/badge/-Python-030303?style=for-the-badge&logo=Python)
- <br>
 
  ### 📚 **I'm learning:**
 
@@ -75,7 +70,6 @@
   ![styled-components](https://img.shields.io/badge/styled_components-030303?style=for-the-badge&logo=styled-components)
   ![node](https://img.shields.io/badge/Node.js-030303?style=for-the-badge&logo=node.js)
   ![React Native](https://img.shields.io/badge/react_native-030303.svg?style=for-the-badge&logo=react)
-<br><br>
  
 <!-- 
 ### 📊 **My Stats:**
@@ -92,7 +86,9 @@
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRlY213cnFqeDFscDk5ejJ1a29qenlmcTcyamI0cWd3MnQ3dXJuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3a0szXeeuLS4s71zoE/giphy.gif" width="400"/>
   
-  ### **Thank you for your visit, close the door when you leave!** 👋🏻 <img align="center" alt="Rafa-Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <br>
+
+  **Thank you for your visit, close the door when you leave!** 👋🏻 <img align="center" alt="Rafa-Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
  
   <a href="https://www.linkedin.com/in/patrick-dniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
