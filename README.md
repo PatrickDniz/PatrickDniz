@@ -1,4 +1,4 @@
-[![capa](https://media.licdn.com/dms/image/D4D16AQFzkUbN3aAAdg/profile-displaybackgroundimage-shrink_350_1400/0/1688226521845?e=1704326400&v=beta&t=dOvxypMiggC9DIqoYvKnWyFNMKaKpKfpsAhc0JrjduQ)](https://github.com/PatrickDniz?tab=repositories)
+[![capa](img/bg_git.jpeg)](https://github.com/PatrickDniz?tab=repositories)
 
 <div>
 
