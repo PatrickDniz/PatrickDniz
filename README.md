@@ -38,7 +38,10 @@
   ![sass](https://img.shields.io/badge/Sass-030303?style=for-the-badge&logo=sass)
   ![Stylus](https://img.shields.io/badge/-Stylus-030303?style=for-the-badge&logo=stylus)
   ![javascript](https://img.shields.io/badge/JavaScript-030303?style=for-the-badge&logo=javascript)
-
+  ![typescript](https://img.shields.io/badge/TypeScript-030303?style=for-the-badge&logo=typescript)
+  ![react](https://img.shields.io/badge/React-030303?style=for-the-badge&logo=react)
+  ![styled-components](https://img.shields.io/badge/styled_components-030303?style=for-the-badge&logo=styled-components)
+  
 ### 💻 **Back-End Development:**
 
   ![mysql](https://img.shields.io/badge/MySQL-030303?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,11 +57,8 @@
 
  ### 📚 **I'm learning:**
 
-  ![next](https://img.shields.io/badge/Next-030303?style=for-the-badge&logo=nextdotjs)
-  ![react](https://img.shields.io/badge/React-030303?style=for-the-badge&logo=react)
-  ![typescript](https://img.shields.io/badge/TypeScript-030303?style=for-the-badge&logo=typescript)
+  ![next.JS](https://img.shields.io/badge/Next-030303?style=for-the-badge&logo=nextdotjs)
   ![redux](https://img.shields.io/badge/Redux-030303?style=for-the-badge&logo=redux)
-  ![styled-components](https://img.shields.io/badge/styled_components-030303?style=for-the-badge&logo=styled-components)
   ![node](https://img.shields.io/badge/Node.js-030303?style=for-the-badge&logo=node.js)
   ![React Native](https://img.shields.io/badge/react_native-030303.svg?style=for-the-badge&logo=react)
  
