@@ -1,5 +1,3 @@
-[![capa](img/bg_git.jpeg)](https://github.com/PatrickDniz?tab=repositories)
-
 <div>
 
   <h3 align="center">
@@ -9,80 +7,80 @@
   </h3>
 
   ```javascript
-  const aboutUs = {
+  const aboutMe = {
     name: "Patrick Diniz",
     birthDate: "07-12-1999",
     habitation: "Marília-SP",
-    job: "Desenvolvedor Web(Eficaz Marketing)",
-    role: "Desenvolvimento do Front-End de Ecommerce".
-    courses: ["Unimar -> ADS", "ADA -> Front-end"]
+    job: "Desenvolvedor Fullstack",
+    courses: { "Unimar": "Análise e Desenvolvimento de Sistemas" }
   }
   ```
 
-<!-- 
-## ⚡ **Principais Repositórios:**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrickDniz&repo=Portifolio_FrontEnd\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/PatrickDniz/Portifolio_FrontEnd) -->
-
 ## 🌊 **Soft Skills:**
-- **Trabalho em Equipe**
-- **análise e pensamento voltado a resolução de problemas**
-- **Gerenciamento de Prazos**
-- **Alta adaptabilidade e aprendizado contínuo** 
+- **Comunicação clara e objetiva** — traduzo problemas técnicos em linguagem acessível para times e stakeholders
+- **Pensamento analítico** — background em dados que influencia a forma como estruturo e questiono soluções
+- **Colaboração e trabalho em equipe** — experiência em ambientes ágeis com múltiplas frentes tecnológicas
+- **Gestão de prazos e prioridades** — habituado a equilibrar entregas sem perder qualidade
+- **Adaptabilidade e aprendizado contínuo** — transitei de dados → frontend → fullstack e sigo evoluindo
 
+## 🏗️ **Software Architecture:**
+- **Padrões:** MVC · Clean Architecture · Cloud First
+- **Princípios:** SOLID · DRY · KISS
+- **APIs:** REST · consumo e desenvolvimento de integrações
+- **Versionamento:** Git Flow · conventional commits · code review
 ## 🛠️ **Languages and Tools:**
 
+### ⚙️ **Back-End Development:**
+  ![node](https://img.shields.io/badge/Node.js-030303?style=for-the-badge&logo=node.js)
+  ![csharp](https://img.shields.io/badge/C%23-030303?style=for-the-badge&logo=csharp)
+  ![dotnet](https://img.shields.io/badge/.net-030303?style=for-the-badge&logo=dotnet)
+  ![entity-framework](https://img.shields.io/badge/Entity_Framework-030303?style=for-the-badge&logo=dotnet)
+  ![php](https://img.shields.io/badge/PHP-030303?style=for-the-badge&logo=php)
+  ![mysql](https://img.shields.io/badge/MySQL-030303?style=for-the-badge&logo=mysql&logoColor=white)
+  ![postgress](https://img.shields.io/badge/PostgreSQL-030303?style=for-the-badge&logo=postgresql)
+  ![swagger](https://img.shields.io/badge/Swagger-030303?style=for-the-badge&logo=swagger)
+  ![postman](https://img.shields.io/badge/Postman-030303?style=for-the-badge&logo=postman)
+  
 ### 💻 **Front-End Development:**
   ![html](https://img.shields.io/badge/HTML5-030303?style=for-the-badge&logo=html5)
   ![css](https://img.shields.io/badge/CSS3-030303?style=for-the-badge&logo=css3)
-  ![sass](https://img.shields.io/badge/Sass-030303?style=for-the-badge&logo=sass)
-  ![Stylus](https://img.shields.io/badge/-Stylus-030303?style=for-the-badge&logo=stylus)
   ![javascript](https://img.shields.io/badge/JavaScript-030303?style=for-the-badge&logo=javascript)
   ![typescript](https://img.shields.io/badge/TypeScript-030303?style=for-the-badge&logo=typescript)
   ![react](https://img.shields.io/badge/React-030303?style=for-the-badge&logo=react)
+  ![next](https://img.shields.io/badge/Next.js-030303?style=for-the-badge&logo=nextdotjs)
+  ![angular](https://img.shields.io/badge/Angular-030303?style=for-the-badge&logo=angular)
   ![styled-components](https://img.shields.io/badge/styled_components-030303?style=for-the-badge&logo=styled-components)
-  
-### 💻 **Back-End Development:**
+  ![sass](https://img.shields.io/badge/Sass-030303?style=for-the-badge&logo=sass)
+  ![Stylus](https://img.shields.io/badge/-Stylus-030303?style=for-the-badge&logo=stylus)
+  ![twig](https://img.shields.io/badge/Twig-030303?style=for-the-badge&logo=symfony)
+  ![redux](https://img.shields.io/badge/Redux-030303?style=for-the-badge&logo=redux)
+  ![jest](https://img.shields.io/badge/Jest-030303?style=for-the-badge&logo=jest)
+  ![graphql](https://img.shields.io/badge/GraphQL-030303?style=for-the-badge&logo=graphql)
 
-  ![mysql](https://img.shields.io/badge/MySQL-030303?style=for-the-badge&logo=mysql&logoColor=white)
-  ![postgress](https://img.shields.io/badge/PostgreSQL-030303?style=for-the-badge&logo=postgresql)
+### 📱 **Mobile Development:**
+  ![React Native](https://img.shields.io/badge/React_Native-030303?style=for-the-badge&logo=react)
+  ![expo](https://img.shields.io/badge/Expo-030303?style=for-the-badge&logo=expo)
+  ![ionic](https://img.shields.io/badge/Ionic-030303?style=for-the-badge&logo=ionic)
 
- ### 💻 **Other Skills:**
-
+### 🔧 **Other Skills:**
   ![Git](https://img.shields.io/badge/-Git-030303?style=for-the-badge&logo=Git)
   ![Github](https://img.shields.io/badge/-Github-030303?style=for-the-badge&logo=Github)
+  ![Figma](https://img.shields.io/badge/-Figma-030303?style=for-the-badge&logo=figma)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-030303?style=for-the-badge&logo=visual-studio-code)
   ![Python](https://img.shields.io/badge/-Python-030303?style=for-the-badge&logo=Python)
-  
+  ![docker](https://img.shields.io/badge/Docker-030303?style=for-the-badge&logo=docker)
+  ![jira](https://img.shields.io/badge/Jira-030303?style=for-the-badge&logo=jira)
+  ![trello](https://img.shields.io/badge/Trello-030303?style=for-the-badge&logo=trello)
 
- ### 📚 **I'm learning:**
-
-  ![next.JS](https://img.shields.io/badge/Next-030303?style=for-the-badge&logo=nextdotjs)
-  ![redux](https://img.shields.io/badge/Redux-030303?style=for-the-badge&logo=redux)
-  ![node](https://img.shields.io/badge/Node.js-030303?style=for-the-badge&logo=node.js)
-  ![React Native](https://img.shields.io/badge/react_native-030303.svg?style=for-the-badge&logo=react)
- 
-<!-- 
-### 📊 **My Stats:**
-<center>
-  <table>
-    <tr>
-        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickDniz&hide=html&layout=compact&theme=dracula" /></td> 
-
-  </table>
-</center>   -->
-
+### 📚 **I'm learning:**
+  ![aws](https://img.shields.io/badge/AWS-030303?style=for-the-badge&logo=amazonwebservices)
+  ![github-actions](https://img.shields.io/badge/GitHub_Actions-030303?style=for-the-badge&logo=githubactions)
 
 <div id="footer" align="center">
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRlY213cnFqeDFscDk5ejJ1a29qenlmcTcyamI0cWd3MnQ3dXJuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3a0szXeeuLS4s71zoE/giphy.gif" width="400"/>
-  
-  <br>
 
-  **Thank you for your visit, close the door when you leave!** 👋🏻 <img align="center" alt="Rafa-Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  **Thank you for your visit, close the door when you leave!** 👋🏻
 
- 
-  <a href="https://www.linkedin.com/in/patrick-dniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/patrick-dniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
 
